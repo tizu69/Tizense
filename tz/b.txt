@@ -1,0 +1,44 @@
+TizenseB (Tizu License, alternate version B)
+
+Please see below terms for copyright notices.
+
+=========================================================================
+TERMS OF USE
+Please follow these terms.
+
+You are free to copy, modify, publish, use, compile or distribute
+this software for any purpose (and means) in both commercial and
+non-commercial environments, either in a compiled binary or source
+code form, as long as the source code is available to the general
+public. However, you are not allowed to sell this piece of software.
+
+This software is meant as a "template" for other software. You may
+use this as a base for your own software. After creating something
+using this, you are free to pick the Tizense that fits the most to
+you and your project. Once changed, the terms stated here can be
+ignored and the ones stated in your Tizense of choice may be used.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+=========================================================================
+COPYRIGHT
+Please add your name but keep the template for others.
+
+Original creator/s, do not change, even if project is cloned using git
+or similar. Significant code changes are required in order to be allowed
+to override this, or the authors listed below didn't contribute in the
+last 6 months to the project, no matter how much got changed.
+
+Copyright (c) [year] [legal name or recognizable user name]
+
+
+Any contributors, even when listed above, may (but are not enforced to,
+unless no way of proving they changed some part of code) sign below.
+
+Copyright (c) [year] [legal name or recognizable user name]
