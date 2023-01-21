@@ -6,15 +6,16 @@ Please see below terms for copyright notices.
 TERMS OF USE
 Please follow these terms.
 
-You are free to copy, modify, publish, use, compile or distribute
-this software for any purpose (and means) in both commercial and
-non-commercial environments, either in a compiled binary or source
-code form, as long as the source code is available to the general
-public. However, you are not allowed to sell this software to others
-unless clear instructions are provided along with the source code on
-how to manually compile the software without purchasing it, along with
-required dependencies and system setup requirements (e.g. operating
-system).
+You are free to copy, modify, use or compile this software for any
+purpose (and means) in both commercial and non-commercial environments,
+either in a compiled binary or source code form, as long as the source
+code is available to the general public. However, you are not allowed
+to sell this software to others unless clear instructions are provided
+along with the source code on how to manually compile the software
+without purchasing it, along with required dependencies and system
+setup requirements (e.g. operating system). Upon modification, you
+may also distribute or publish this software. The terms above still
+apply.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
@@ -33,7 +34,6 @@ or similar. Significant code changes are required in order to be allowed
 to override this, or the authors listed below didn't contribute in the
 last 6 months to the project, no matter how much got changed.
 
-Copyright (c) 2022 tizu69
 Copyright (c) [year] [legal name or recognizable user name]
 
 
