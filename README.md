@@ -11,4 +11,4 @@ Unless your version of Tizense just doesn't feel right (we'll explain why not wh
 | -------------------- | ---------------------------- | -------------------------------------------------------------- | ----------------------------------- |
 | [Tizense](tz/a.txt)  | The general all-in-one pack. | _Does not apply_                                               | [tizu69](https://github.com/tizu69) |
 | [TizenseB](tz/b.txt) | Intended for templates.      | Don't sell, no exceptions<br>Pick a Tizense after modification | [tizu69](https://github.com/tizu69) |
-| [TizenseC](tz/c.txt) | No stealing please!          | Don't distribute, publish or sell without modification             | [tizu69](https://github.com/tizu69) |
+| [TizenseC](tz/c.txt) | No stealing please!          | Don't distribute or publish without modification               | [tizu69](https://github.com/tizu69) |
