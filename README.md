@@ -1,3 +1,5 @@
+**these suck ass, do not use**
+
 # Tizense, the Tizu License
 
 While originally meant as a joke, Tizense is a small collection of licenses with slightly different use cases. Due to this, Tizenses are only called Tizense, TizenseB, TizenseC and so on. Not very helpful, is it? Below is a list of all Tizenses and their intended purpose.
